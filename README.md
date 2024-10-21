@@ -25,7 +25,7 @@
 ### :man_technologist: About Me :
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I work as a Data Scientist at Gazprom-Neft.
+- :telescope: I work as a Data Scientist at SBER.
 
 - :man_student: Currently, I am studying Data Analytics at ITMO University.
 
